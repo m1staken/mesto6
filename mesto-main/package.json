@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vladislav-Filatov/mesto.git"
+    "url": "git+https://github.com/m1staken/mesto6.git"
   },
-  "author": "Vladislav Filatov",
+  "author": "Albina Khismatova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vladislav-Filatov/mesto/issues"
+    "url": "https://github.com/m1staken/mesto6/issues"
   },
-  "homepage": "https://github.com/Vladislav-Filatov/mesto#readme",
+  "homepage": "https://github.com/m1staken/mesto6#readme",
   "devDependencies": {
     "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.26.9",
