@@ -2,7 +2,7 @@
   "name": "mesto",
   "version": "1.0.0",
   "description": "студент, когорта, стэк",
-  "main": "./src/scripts/index.js",
+  "main": "./mesto-main/src/scripts/index.js",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack serve",
